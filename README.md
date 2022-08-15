@@ -15,6 +15,7 @@ N/A
 
 ## Usage
 
+![screenshot of the finished website](assets/images/screenshot.png)
 Link to the deployed website: https://wongpakho814.github.io/module-1-challenge/
 
 ## Credits
